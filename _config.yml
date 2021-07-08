@@ -3,5 +3,5 @@ github_username:  tomroberts
 
 # Build settings
 theme: jekyll-theme-slate
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
