@@ -2,6 +2,6 @@ title: Tom Roberts
 github_username:  tomroberts
 
 # Build settings
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
