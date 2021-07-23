@@ -6,7 +6,7 @@ layout: default
 
 <img src="assets/tom-roberts-photo1.jpg"
     alt="Tom Roberts photograph"
-    style="float: right; margin-left: 10px;"
+    style="float: right; margin-left: 15px; margin-bottom: 15px;"
     width=200px />
 
 I am currently an **imaging scientist** and **software developer**.
