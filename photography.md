@@ -6,7 +6,7 @@ layout: default
 
 I'm a keen photographer!
 
-My wedding photography site can be found [here](https://www.tomrobertsphoto.com).
+You can find some of my wedding photography [here](https://www.tomrobertsphoto.com).
 
-
+<br />
 [back](./)

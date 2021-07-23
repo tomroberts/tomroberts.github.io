@@ -4,8 +4,9 @@ layout: default
 
 ## Software
 
-I have made various bits of software over the years. My main Github page can be found [here](https://github.com/tomaroberts).
+I have made various bits of software over the years. My personal Github page can be found [here](https://github.com/tomaroberts).
 
-Below are some selected bits of software with a bit more explanation:
+I am also a contributor to the [SVRTK project](https://svrtk.github.io) and to KCL's [mriphysics.github.io](https://github.com/mriphysics) repo.
 
+<br />
 [back](./)
