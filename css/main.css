@@ -3,51 +3,68 @@ body {
   width: 60%;
   background-color: #fffdfa;
 }
+
 nav ul, footer ul {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   padding: 0px;
   list-style: none;
   font-weight: bold;
 }
+
 nav ul li, footer ul li {
   display: inline;
   margin-right: 20px;
 }
+
 ul li {
   font-size: 1em;
   color: #5c5b5b;
+  width: 75%;
 }
+
 a {
   text-decoration: none;
   color: #ff7070;
 }
+
 a:hover {
   text-decoration: underline;
 }
+
 h1 {
   font-size: 3em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 h2 {
   font-size: 2em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
   font-size: 1.2em;
   line-height: 1.3em;
   width: 75%;
   color: #5c5b5b;
 }
+
 footer {
   border-top: 1px solid #d5d5d5;
   font-size: .8em;
+  width: 80%;
 }
 
-ul.posts {
-  margin: 20px auto 40px;
-  font-size: 1.5em;
+/* Lists */
+h3.pubs {
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  margin-top: 2em;
+  margin-bottom: -0.6em;
+  width: 75%;
 }
 
-ul.posts li {
-  list-style: none;
+ul.pubs {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: -0.6em;
+  width: 75%;
 }
