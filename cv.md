@@ -4,7 +4,11 @@ layout: default
 
 ## CV
 
-[_an abridged version_]
+[_abridged version_]
+
+### Biography
+
+Imaging scientist specialising in MRI physics, image reconstruction and image analysis. Developer of research software for routine use by clinicians and radiographers.
 
 ### Professional History
 

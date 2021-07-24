@@ -10,7 +10,7 @@ title: Tom Roberts | github.io
     style="float: right; margin-left: 15px; margin-bottom: 15px;"
     width=200px />
 
-I am currently an **imaging scientist** and **software developer**.
+I am currently an **imaging scientist** and **research software developer**.
 
 I work in the department of Perinatal Imaging & Health for **King's College London**, based at St Thomas' Hospital.
 
