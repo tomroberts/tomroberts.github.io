@@ -4,7 +4,7 @@ layout: default
 
 ## CV
 
-[_abridged ]
+[ _abridged_ ]
 
 ### Biography
 
