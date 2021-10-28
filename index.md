@@ -12,7 +12,7 @@ title: Tom Roberts | github.io
 
 I am an **artificial intelligence engineer**, **imaging scientist** and **research software developer**.
 
-I work for the NHS in the **Clinical Scientific Computing** department at Guy's & St Thomas' Hospital in London.
+I work for the NHS in the **Clinical Scientific Computing** department at Guy's & St. Thomas' NHS Foundation Trust.
 
 Prior to this, I was a research fellow within the department of Perinatal Imaging & Health for **King's College London**.
 
@@ -20,6 +20,6 @@ My research used **magnetic resonance imaging** (MRI) to look at the tiny organs
 
 More specifically, this work was focussed on **developing new imaging capabilities** for examining the foetal heart in greater detail than ever before.
 
-In all these roles, I work closely with clinicians and industry partners to **develop better software tools** for improving diagnosis of disease and for more efficient hospital workflows.
+Across all my roles, I work closely with clinicians and industry partners to **develop better software tools** for improving healthcare.
 
 <br />
