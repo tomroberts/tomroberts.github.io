@@ -10,14 +10,16 @@ title: Tom Roberts | github.io
     style="float: right; margin-left: 15px; margin-bottom: 15px;"
     width=200px />
 
-I am currently an **imaging scientist** and **research software developer**.
+I am an **artificial intelligence engineer**, **imaging scientist** and **research software developer**.
 
-I work in the department of Perinatal Imaging & Health for **King's College London**, based at St Thomas' Hospital.
+I work for the NHS in the **Clinical Scientific Computing** department at Guy's & St Thomas' Hospital in London.
 
-My research uses **magnetic resonance imaging** (MRI) to look at the tiny organs inside the **foetuses** of pregnant mothers.
+Prior to this, I was a research fellow within the department of Perinatal Imaging & Health for **King's College London**.
 
-More specifically, my work is focussed on **developing new imaging capabilities** for examining the foetal heart in greater detail than ever before.
+My research used **magnetic resonance imaging** (MRI) to look at the tiny organs inside the **foetuses** of pregnant mothers.
 
-I also work closely with clinicians and industry partners to **develop better software tools** for improving diagnosis of disease and for more efficient hospital workflows.
+More specifically, this work was focussed on **developing new imaging capabilities** for examining the foetal heart in greater detail than ever before.
+
+In all these roles, I work closely with clinicians and industry partners to **develop better software tools** for improving diagnosis of disease and for more efficient hospital workflows.
 
 <br />
