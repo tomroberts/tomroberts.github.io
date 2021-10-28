@@ -4,15 +4,17 @@ layout: default
 
 ## CV
 
-[_abridged version_]
+[_abridged ]
 
 ### Biography
 
-Imaging scientist specialising in MRI physics, image reconstruction and image analysis. Developer of research software for routine use by clinicians and radiographers.
+AI engineer // Software developer // Imaging scientist // MR physicist // Researcher
 
 ### Professional History
 
-- 2020-current: Research Fellow, King's College London
+- 2021-current: Senior AI Engineer, Guy's & St. Thomas' NHS Foundation Trust
+- 2021-current: Visiting Research Fellow, King's College London
+- 2020-2021: Research Fellow, King's College London
 - 2017-2020: Research Associate, KCL
 - 2014-2017: Research Associate, University College London
 - 2007-2008: Felix Editor, Student Newspaper of Imperial College London
@@ -46,19 +48,6 @@ Imaging scientist specialising in MRI physics, image reconstruction and image an
 - 2017:	3rd Prize – Oral Presentation, Postgraduate ISMRM 2017 conference
 - 2015:	Best Poster – Postgraduate ISMRM 2015 conference
 - 2009:	Journalist of the Year and Newspaper of the Year, Guardian Student Media Awards
-
-### Committees / Membership
-- Research Software London (RSLondon) Committee Member
-- International Society for Magnetic Resonance in Medicine (ISMRM) Member
-- Fetal CMR & CMR in Pregnancy Special Interest Group Member, Society for Cardiovascular Magnetic Resonance
-
-### Teaching
-- 2021: Introduction to Git – RSLondon Software Carpenty Workshop
-- 2019:	Preclinical MRI and Introduction to MATLAB – MSc in Perinatal Imaging Sciences		
-- 2015: Advanced Diffusion MRI – MSc in Advanced Biomedical Imaging
-- 2015: Medical Image Processing using MATLAB – MSc in Advanced Biomedical Imaging
-- Supervised 5 Undergraduate & Masters students and 2 PhD students.
-
 
 <br />
 [back](./)
