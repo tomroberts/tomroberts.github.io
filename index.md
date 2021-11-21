@@ -1,25 +1,16 @@
 ---
-layout: default
-title: Tom Roberts | github.io
+layout: post
+title:  "Hello, I'm Tom Roberts"
 ---
 
-## Hello, I'm Tom Roberts
+I am an <u class="dotted_u">artificial intelligence engineer</u>, <u class="dotted_u">imaging scientist</u> and <u class="dotted_u">research software developer</u>.
 
-<img src="assets/tom-roberts-photo1.jpg"
-    alt="Tom Roberts photograph"
-    style="float: right; margin-left: 15px; margin-bottom: 15px;"
-    width=200px />
+I work for the NHS in the <u class="dotted_u">Clinical Scientific Computing</u> department at Guy’s & St. Thomas’ NHS Foundation Trust.
 
-I am an **artificial intelligence engineer**, **imaging scientist** and **research software developer**.
+Prior to this, I was a research fellow within the department of Perinatal Imaging & Health for King’s College London.
 
-I work for the NHS in the **Clinical Scientific Computing** department at Guy's & St. Thomas' NHS Foundation Trust.
+My research used <u class="dotted_u">magnetic resonance imaging (MRI)</u> to look at the <u class="dotted_u">tiny organs inside the foetuses</u> of expectant mothers.
 
-Prior to this, I was a research fellow within the department of Perinatal Imaging & Health for **King's College London**.
+More specifically, this work was focussed on <u class="dotted_u">developing new imaging capabilities</u> for examining the foetal heart in greater detail than ever before.
 
-My research used **magnetic resonance imaging** (MRI) to look at the tiny organs inside the **foetuses** of pregnant mothers.
-
-More specifically, this work was focussed on **developing new imaging capabilities** for examining the foetal heart in greater detail than ever before.
-
-Across all my roles, I work closely with clinicians and industry partners to **develop better software tools** for improving healthcare.
-
-<br />
+Across all my roles, I work closely with clinicians and industry partners to develop <u class="dotted_u">better software tools</u> for <u class="dotted_u">improving healthcare</u>.

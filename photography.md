@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: Photography
 ---
-
-## Photography
 
 I'm a keen photographer!
 

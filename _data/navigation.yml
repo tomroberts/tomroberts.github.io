@@ -1,0 +1,12 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: CV
+  url: /cv
+- title: Publications
+  url: /publications
+- title: Software
+  url: /software
+- title: Photography
+  url: /photography

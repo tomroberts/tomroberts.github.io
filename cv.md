@@ -1,16 +1,13 @@
 ---
-layout: default
+layout: page
+title: CV
 ---
 
-## CV
+## Biography
 
-[ _abridged_ ]
+I am an <u class="dotted_u">AI engineer</u> and <u class="dotted_u">software developer</u> for the NHS. I was previously an <u class="dotted_u">imaging scientist</u> with a focus on developing MRI methods for imaging foetuses and writing software to improve hospital workflows.
 
-### Biography
-
-AI engineer // Software developer // Imaging scientist // MR physicist // Researcher
-
-### Professional History
+## Professional History
 
 - 2021-current: Senior AI Engineer, Guy's & St. Thomas' NHS Foundation Trust
 - 2021-current: Visiting Research Fellow, King's College London
@@ -19,12 +16,13 @@ AI engineer // Software developer // Imaging scientist // MR physicist // Resear
 - 2014-2017: Research Associate, University College London
 - 2007-2008: Felix Editor, Student Newspaper of Imperial College London
 
-### Education / Qualifications
+## Education / Qualifications
+
 - 2011-2015: Ph.D, MRI Physics and Medical Imaging, UCL
 - 2010-2011: MRes, Modelling Biological Complexity (Distinction), UCL
 - 2004-2009: MSci, Physics (First class Honours), Imperial College London
 
-### Skills
+## Skills
 - Programming:
     - Python, Bash, Matlab, C++, Git, Docker, HTML, CSS
 - General Computing:
@@ -33,10 +31,10 @@ AI engineer // Software developer // Imaging scientist // MR physicist // Resear
 - MRI Pulse Programming:
     - Philips, Varian/Agilent
 
-### Publications
+## Publications
 - My research papers can be found [here](./publications).
 
-### Prizes, Awards, Honours
+## Prizes, Awards, Honours
 - 2021:	Summa Cum Laude – Oral Presentation, ISMRM 2021 conference
 - 2020:	Magna Cum Laude – Oral Presentation, ISMRM 2020 conference
 - 2020:	2nd Prize – Placenta & Fetus Study Group, ISMRM 2019 conference
