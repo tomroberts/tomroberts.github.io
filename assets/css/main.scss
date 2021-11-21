@@ -15,3 +15,10 @@ sitemap: false
 
 // images in Publications table
 img[alt=pub_image] { width: 1000px; } // 1000px is a bodge...
+
+// iFrame border
+iframe {
+  border-color: #fc7a1e;
+  border-width: thin;
+  border-style: dashed;
+}
