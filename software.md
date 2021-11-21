@@ -3,11 +3,15 @@ layout: page
 title: Software
 ---
 
-My personal Github page can be found [here](https://github.com/tomaroberts).
+Follow the links below to find out more about some of the software projects I am involved with.
 
-The NHS Clinical Scientific Computing Github page can be found [here](https://gstt-csc.github.io/).
-
-I am a contributor to the [SVRTK project](https://svrtk.github.io) and to KCL's [MRI physics](https://github.com/mriphysics) repo.
+| **My GitHub** | **NHS Clinical Scientific Computing** |
+| ------------- | ------------------------------------- |
+| [github.com/tomaroberts](https://github.com/tomaroberts) | [gstt-csc.github.io](https://gstt-csc.github.io/) |
+| ------------- | ------------------- |
+| **Fetal MRI** | **King's College London MRI Physics** |
+| ------------- | ------------------- |
+| [svrtk.github.io](https://svrtk.github.io) | [github.com/mriphysics](https://github.com/mriphysics) |
 
 <br />
 [back](./)
