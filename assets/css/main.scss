@@ -12,3 +12,6 @@ sitemap: false
   text-decoration: underline dotted #fc7a1e;
   text-underline-offset: 0.1em;
 }
+
+// images in Publications table
+img[alt=pub_image] { width: 1000px; } // 1000px is a bodge...
