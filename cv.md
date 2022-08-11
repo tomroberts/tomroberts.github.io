@@ -25,10 +25,11 @@ I am an <u class="dotted_u">AI engineer</u> and <u class="dotted_u">software dev
 
 ## Skills
 - Programming:
-    - Python, Bash, Matlab, C++, Git, Docker, HTML, CSS
+    - Competent: Python, Bash, Matlab, Git, Docker, HTML, CSS, Bootstrap
+    - Experienced: C++, Javascript, Jekyll, Flask, Celery
 - General Computing:
-    - Experienced Windows, MacOS and Linux user
-    - Photoshop, Lightroom, Illustrator, InDesign
+    - Expert Windows, MacOS and Linux user
+    - Competent: Photoshop, Lightroom, Illustrator, InDesign
 - MRI Pulse Programming:
     - Philips, Varian/Agilent
 
