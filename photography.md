@@ -8,14 +8,12 @@ I'm a <u class="dotted_u">professional photographer</u>, with a particular love 
 ### Weddings
 ![](/assets/images/weddings-photo-1.jpg)
 
-My wedding photography site: [tomrobertsphoto.com](https://www.tomrobertsphoto.com).
+[//]: # (My wedding photography site: [tomrobertsphoto.com]&#40;https://www.tomrobertsphoto.com&#41;.)
 
 <br/>
 
 ### Daily Life
 ![](/assets/images/people-photo-1.jpeg)
-
-My Flickr site: [flickr.com/tomonaldo](https://www.flickr.com/tomonaldo).
 
 <br/>
 
@@ -53,4 +51,10 @@ My Flickr site: [flickr.com/tomonaldo](https://www.flickr.com/tomonaldo).
 ![](/assets/images/parties-photo-2.jpg)
 
 <br />
+
+### Flickr
+My Flickr profile contains mainly friends and cats. See here: [flickr.com/tomonaldo](https://www.flickr.com/tomonaldo).
+
+<br />
+
 [back](./)
