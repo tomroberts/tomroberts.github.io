@@ -5,7 +5,7 @@ title:  "Hello, I'm Tom Roberts"
 
 I am an <u class="dotted_u">artificial intelligence engineer</u>, <u class="dotted_u">imaging scientist</u> and <u class="dotted_u">research software developer</u>.
 
-I work for the NHS in the <u class="dotted_u">Clinical Scientific Computing</u> department at Guy’s & St. Thomas’ NHS Foundation Trust.
+I work for the NHS in the <u class="dotted_u">Clinical Scientific Computing</u> department at Guy’s & St. Thomas’ NHS Foundation Trust and I am also an <u class="dotted_u">NHS Digital Topol Fellow</u>.
 
 Prior to this, I was a research fellow within the department of Perinatal Imaging & Health for King’s College London.
 

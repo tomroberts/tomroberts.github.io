@@ -9,6 +9,7 @@ I am an <u class="dotted_u">AI engineer</u> and <u class="dotted_u">software dev
 
 ## Professional History
 
+- 2022-2023: NHS Topol Digital Fellow, Cohort 3
 - 2021-current: Senior AI Engineer, Guy's & St. Thomas' NHS Foundation Trust
 - 2021-current: Visiting Research Fellow, King's College London
 - 2020-2021: Research Fellow, King's College London
@@ -35,6 +36,7 @@ I am an <u class="dotted_u">AI engineer</u> and <u class="dotted_u">software dev
 - My research papers can be found [here](./publications).
 
 ## Prizes, Awards, Honours
+- 2022: NHS Topol Digital Fellowship, Cohort 3
 - 2021:	Summa Cum Laude – Oral Presentation, ISMRM 2021 conference
 - 2020:	Magna Cum Laude – Oral Presentation, ISMRM 2020 conference
 - 2020:	2nd Prize – Placenta & Fetus Study Group, ISMRM 2019 conference
